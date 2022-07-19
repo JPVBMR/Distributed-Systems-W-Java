@@ -1,4 +1,4 @@
-# Desenvolvimento de um servidor que permite agendar vacinações.
+# Desenvolvimento de um servidor de agendamento.
 
 Notas:
 
