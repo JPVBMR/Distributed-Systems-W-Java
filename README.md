@@ -16,7 +16,7 @@ Objetivo:
 Lista de Comandos:
 
 - LOCAIS : para receber uma lista de locais de vacinação; 
-- AGENDAR <LOCAL> : indicando um local onde pretende ser agendada a vacinação; 
+- AGENDAR <<LOCAL>> : indicando um local onde pretende ser agendada a vacinação; 
 - DESMARCAR : cancela um agendamento anterior e permite fazer um novo. 
 
 
